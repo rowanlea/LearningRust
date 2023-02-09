@@ -1,4 +1,4 @@
-# LearningRust
+# Learning Rust
 Today I'm having a go at learning Rust for the first time!
 
 I have just a few hours to learn enough Rust to try and help assist with the teaching of it.
